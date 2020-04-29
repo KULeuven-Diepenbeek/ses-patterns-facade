@@ -1,4 +1,4 @@
-package be.kuleuven.ses.facade;// I also want a Pig and two Cats
+package be.kuleuven.ses.facade;// I also want a Cow and two Cats - see README.md
 
 import be.kuleuven.ses.facade.animals.Chicken;
 
