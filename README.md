@@ -1,6 +1,6 @@
 # SES Patterns: Facade
 
-Oefening voor https://brainbaking.com/teaching/ses/
+Oefening voor https://kuleuven-diepenbeek.github.io/ses-course/
 
 ## Opgave
 
